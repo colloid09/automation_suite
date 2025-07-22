@@ -45,12 +45,12 @@ automation_suite/
 git clone https://github.com/yourusername/automation-suite.git
 cd automation-suite
 ```
-###2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 pip install PyQt5 PyPDF2
 ```
-###3. Run the App
+### 3. Run the App
 ```bash
 python main.py
 ```
